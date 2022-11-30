@@ -40,6 +40,11 @@
 
 #
 
+### 📈 Stats
+![Jonatas' GitHub stats](https://github-readme-stats.vercel.app/api?username=jmanzolli&show_icons=true&theme=tokyonight)
+
+#
+
 <details>
 <summary><h3> 🧑🏻‍💻 My full journey </h3></summary>
 Jônatas Augusto Manzolli holds an MSc degree in Energy for Sustainability from the University of Coimbra (2020). He is currently a PhD student in Sustainable Energy Systems by the same institution. He holds a BS degree in Electrical Engineering from the University of Campinas (2017). During his undergraduate period, he was an exchange student, with a scholarship (CsF/DAAD), at the Technical University of Munich (2014-2016). As a result of his research in electrical mobility, he received the SYLFF award (Tokyo foundation) for young world leaders (2019). He was selected to participate in the International Workshop on Innovating (IWI), an event dedicated to outstanding young researchers in Portugal, held at the Massachusetts Institute of Technology (2019). He was placed among the top ten best projects in the EDP University Challenge award (2020) and was a finalist in the Oeiras Valley Award (2020). His research interests are fast charging techniques, route optimization, urban mobility, and electric vehicles in general. Professionally, he worked at the company IAV Automotive Engineering (Munich, Germany) during 2015-2016. Since 2020 he is a fellow researcher at the Institute for Systems Engineering and Computers at Coimbra (INESCC).

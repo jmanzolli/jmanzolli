@@ -14,7 +14,7 @@
 
 - 💡 I’m currently learning: **HTML, CSS, and Javascript**
 
-- 💬 Ask me about: **optimization, machine learning, electric vehicles, operational research**
+- 💬 Ask me about: **Optimization, machine learning, electric vehicles, operational research**
 
 - 📫 How to reach me: j.manzolli@deec.uc.pt
 

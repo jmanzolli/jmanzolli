@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmanzolli&label=Profile%20views&color=0e75b6&style=flat" alt="jmanzolli" /> </p>
 
-<p align="left"> Bio: I am an engineer fascinated by technology, innovation, and sustainability. I believe these areas are largely responsible for propelling our world towards sustainable development and improving life quality. In this way, I have been performing my work in related areas - such as urban mobility, electric vehicles, and renewable energy.
+<p align="left"> I believe these areas are largely responsible for propelling our world towards sustainable development and improving life quality. In this way, I have been performing my work in related areas - such as urban mobility, electric vehicles, and renewable energy.
   My technical skills were acquired in worldwide consolidated institutions. I hold a bachelor's degree in Electrical Engineering from the University of Campinas (UNICAMP) and the Technical University of Munich (TUM) and a master's degree in Energy for Sustainability from the University of Coimbra (UC-MIT/Portugal). Currently, I'm a PhD candidate at the same institution.
   Professionally, I am creating solutions to improve electric buses' feasibility and penetration in urban environments. My research focuses on Urban Mobility, Systems Optimization, and Artificial Intelligence. In addition to technical growth, my professional experiences have helped me develop my soft skills: proactivity, willingness to learn, resilience, and creativity. </p>
 

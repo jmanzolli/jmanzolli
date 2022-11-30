@@ -1,25 +1,25 @@
 <header><h1><img src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif"></h1></header>
 
-<h1 align="center"> Jônatas Augusto Manzolli </h1>
-<h3 align="center">An engineer fascinated by technology, innovation, and sustainability.</h3>
+# Jônatas Augusto Manzolli  🪄
+
+**`digital nomad (creator/podcaster/developer)`**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmanzolli&label=Profile%20views&color=0e75b6&style=flat" alt="jmanzolli" /> </p>
 
-<p align="left"> I believe these areas are largely responsible for propelling our world towards sustainable development and improving life quality. In this way, I have been performing my work in related areas - such as urban mobility, electric vehicles, and renewable energy.
-  My technical skills were acquired in worldwide consolidated institutions. I hold a bachelor's degree in Electrical Engineering from the University of Campinas (UNICAMP) and the Technical University of Munich (TUM) and a master's degree in Energy for Sustainability from the University of Coimbra (UC-MIT/Portugal). Currently, I'm a PhD candidate at the same institution.
-  Professionally, I am creating solutions to improve electric buses' feasibility and penetration in urban environments. My research focuses on Urban Mobility, Systems Optimization, and Artificial Intelligence. In addition to technical growth, my professional experiences have helped me develop my soft skills: proactivity, willingness to learn, resilience, and creativity. </p>
+<p align="left"> Hello all! I'm Jônatas, an engineer fascinated by technology, innovation, and sustainability. I believe these areas are largely responsible for propelling our world towards sustainable development and improving life quality. In this way, I have been performing my work in related areas - such as urban mobility, electric vehicles, and renewable energy. Today, I am creating solutions to improve electric buses' feasibility and penetration in urban environments. My research focuses on mobility, optimization, and artificial intelligence. </p>
 
-- 🔭 I’m currently working on **Adaptive energy management strategies for electric bus fleets**
+- 🔭 I’m currently working on: **adaptive energy management strategies for electric bus fleets**
 
-- 🌱 I’m currently learning **HTML, CSS, and Javascript**
+- 🌱 I’m currently learning: **HTML, CSS, and Javascript**
 
-- 💬 Ask me about **optimization, machine learning, electric vehicles, operational research**
+- 💬 Ask me about: **optimization, machine learning, electric vehicles, operational research**
 
-- 📫 How to reach me **j.manzolli@deec.uc.pt**
+- 📫 How to reach me: j.manzolli@deec.uc.pt
 
-- 📄 Know about my experiences [https://www.cienciavitae.pt/portal/ED1D-59E6-2B99](https://www.cienciavitae.pt/portal/ED1D-59E6-2B99)
+- 📄 Know about my experiences: <a href="https://www.cienciavitae.pt/portal/ED1D-59E6-2B99" target="_blank">Visit my Ciencia Vitae!</a>
 
-- ⚡ Fun fact **I am photographer 📸 (part-time) and vegetarian 🌱 (full-time)**
+- ⚡ Fun facts: **I am <a href="https://www.natomanzolli.com/" target="_blank">photographer</a>
+ 📸 (part-time) and vegetarian 🌱 (full-time)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

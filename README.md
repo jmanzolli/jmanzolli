@@ -10,7 +10,7 @@
 
 ##
 
-- 🔭 I’m currently working on my PhD project called: **Adaptive energy management strategies for electric bus fleets**
+- 🔭 I’m currently working on my PhD project: **Adaptive energy management strategies for electric bus fleets**
 
 - 💡 I’m currently learning: **HTML, CSS, and Javascript**
 

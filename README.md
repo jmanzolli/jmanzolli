@@ -18,7 +18,7 @@
 
 - 📫 How to reach me: j.manzolli@deec.uc.pt
 
-- 📄 Know about my experiences: <a href="https://www.cienciavitae.pt/portal/ED1D-59E6-2B99" target="_blank">Visit my Ciencia Vitae!</a>
+- 📄 Know about my experiences: **Visit my <a href="https://www.cienciavitae.pt/portal/ED1D-59E6-2B99" target="_blank">Ciencia Vitae</a>**
 
 - ⚡ Fun facts: **I am <a href="https://www.natomanzolli.com/" target="_blank">photographer</a>
  📸 (part-time) and vegetarian 🌱 (full-time)**

@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif">
 
-# Jônatas Augusto Manzolli  🪄
+# Jônatas Augusto Manzolli
 
 **`digital nomad (creator/podcaster/developer)`**
 

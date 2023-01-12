@@ -2,7 +2,7 @@
 
 # Jônatas Augusto Manzolli
 
-**`digital nomad (creator/podcaster/developer)`**
+**`digital nomad (creator/podcaster/researcher)`**
 
 <p align="left">
 

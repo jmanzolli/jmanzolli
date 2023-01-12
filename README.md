@@ -4,7 +4,29 @@
 
 **`digital nomad (creator/podcaster/developer)`**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jmanzolli&label=Profile%20views&color=0e75b6&style=flat" alt="jmanzolli" /> </p>
+<p align="left">
+
+ <img src="https://komarev.com/ghpvc/?username=jmanzolli&label=Profile%20views&color=0e75b6&style=flat" alt="jmanzolli" />
+ 
+ <a href="https://www.linkedin.com/in/jonatas-augusto-manzolli/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5" alt="LinkedIn Connect" />
+</a>
+ 
+  <a href="https://www.instagram.com/natomanzolli">
+  <img src="https://img.shields.io/badge/Instagram-follow-e4405f" alt="Instagram Follow" />
+</a>
+ 
+ <a href="https://www.facebook.com/jonatasaugustomanzolli">
+  <img src="https://img.shields.io/badge/Facebook-like-1877f2" alt="Facebook like" />
+</a>
+
+
+ <a href="https://twitter.com/j_manzolli">
+  <img src="https://img.shields.io/twitter/follow/j_manzolli?style=social&label=twitter" alt="Twitter Followers" />
+</a>
+
+
+</p>
 
 <p align="left"> Hello stranger! I'm an engineer fascinated by technology, innovation, and sustainability. I believe these areas are largely responsible for propelling our world towards sustainable development and improving life quality. In this way, I have been performing my work in related areas - such as urban mobility, electric vehicles, and renewable energy. Today, I am creating solutions to improve electric buses' feasibility and penetration in urban environments. My research focuses on mobility, optimization, and artificial intelligence. </p>
 
@@ -22,16 +44,6 @@
 
 - ⚡ Fun facts: **I am <a href="https://www.natomanzolli.com/" target="_blank">photographer</a>
  📸 (part-time) and vegetarian 🌱 (full-time)**
-
-#
-
-### 🖇️ Connect with me
-<p align="left">
-<a href="https://twitter.com/j_manzolli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="j_manzolli" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jonatas-augusto-manzolli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonatas-augusto-manzolli" height="30" width="40" /></a>
-<a href="https://fb.com/jonatasaugustomanzolli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jonatasaugustomanzolli" height="30" width="40" /></a>
-<a href="https://instagram.com/natomanzolli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="natomanzolli" height="30" width="40" /></a>
-</p>
 
 #
 

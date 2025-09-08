@@ -38,7 +38,7 @@
 
 - 💬 Ask me about: **Optimization, machine learning, electric vehicles, operational research**
 
-- 📫 How to reach me: jonatas.manzolli@mail.mcgill.ca
+- 📫 How to reach me: jonatas.manzolli@mcgill.ca
 
 - 📄 Know about my experiences: **Visit my <a href="https://www.cienciavitae.pt/portal/ED1D-59E6-2B99" target="_blank">Ciencia Vitae</a>**
 

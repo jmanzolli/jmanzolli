@@ -32,7 +32,7 @@
 
 ##
 
-- 🔭 I’m currently working on my PhD project: **Adaptive energy management strategies for electric bus fleets**
+- 🔭 I’m currently working as a postdoc researcher at <a href="https://www.imats.ca/" target="_blank">IMaTS lab</a> - McGill University
 
 - 💡 I’m currently learning: **HTML, CSS, and Javascript**
 

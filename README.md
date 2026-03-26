@@ -1,128 +1,166 @@
-<img src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
-<h1 align="center">Jônatas Augusto Manzolli</h1>
+# Jônatas Augusto Manzolli
 
-<p align="center">
-<b>Optimization • AI • Energy Systems • Mobility</b><br>
-Designing intelligent systems for electrified transportation
-</p>
+**`Optimization | AI | Energy & Mobility Systems`**
 
-<p align="center">
-<a href="https://scholar.google.com/citations?user=IJKz2_gAAAAJ&hl=pt-PT">
-<img src="https://img.shields.io/badge/Google%20Scholar-View%20Profile-blue?style=for-the-badge">
+<p align="left">
+
+<img src="https://komarev.com/ghpvc/?username=jmanzolli&label=Profile%20views&color=0e75b6&style=flat" />
+
+<a href="mailto:jonatas.manzolli@mcgill.ca">
+<img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail" />
 </a>
+
 <a href="https://www.linkedin.com/in/jonatas-augusto-manzolli/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5" />
 </a>
+
+<a href="https://scholar.google.com/citations?user=IJKz2_gAAAAJ&hl=pt-PT">
+<img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue" />
+</a>
+
 </p>
 
 ---
 
-## 🧠 About
+## 🧠 Bio
 
-I work at the intersection of **energy systems, artificial intelligence, and transportation**.
+I design **optimization-driven and AI-powered systems** for electrified transportation.
 
-My research focuses on building **deployable optimization frameworks** for:
-- electric vehicle fleets  
-- smart charging and V2G  
-- grid-aware mobility systems  
-
-I combine:
-- mathematical optimization  
-- machine learning  
-- agent-based simulation  
-
-to design systems that are **robust, scalable, and real-world ready**.
+Focus: EV fleets, smart charging, and grid-integrated mobility.  
+Approach: combine **optimization, machine learning, and system modeling**.  
+Goal: build solutions that are **robust, scalable, and deployable**.
 
 ---
 
-## ⚡ System Perspective
+## ⚡ What I Do
 
-<p align="center">
-<img src="assets/system_architecture.svg" width="800">
-</p>
-
----
-
-## 🚀 Core Work
-
-### ⚡ Electric Fleet Optimization
-Planning and operational models for EV fleets:
-- charging scheduling  
-- energy-aware routing  
-- infrastructure sizing  
-
----
-
-### 🤖 Hybrid AI + Physics Models
-Combining physical models with ML:
-- improved prediction accuracy  
-- robustness under uncertainty  
-- better extrapolation  
-
----
-
-### 🌐 Mobility + Energy Simulation
-Agent-based + optimization coupling:
-- demand modeling  
-- energy consumption  
-- system-level analysis  
-
----
-
-### 🔌 Smart Charging & V2G
-Transforming fleets into grid assets:
-- peak shaving  
-- load shifting  
-- flexibility services  
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,matlab,linux,git" />
-</p>
+- Electric fleet optimization  
+- Decision-making under uncertainty  
+- Smart charging and V2G  
+- Hybrid physics + ML models  
+- Mobility and energy system integration  
 
 ---
 
 ## 📊 GitHub
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jmanzolli&show_icons=true&theme=radical" height="160">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmanzolli&layout=compact&theme=radical" height="160">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jmanzolli&theme=radical" height="180"/>
 </p>
 
 ---
 
 ## 📄 Research
 
-- 15+ publications in energy and mobility systems  
-- Topics: EV adoption, fleet optimization, energy integration  
+15+ publications in energy and mobility systems  
 
-👉 [Google Scholar](https://scholar.google.com/citations?user=IJKz2_gAAAAJ&hl=pt-PT)
-
----
-
-## 📫 Contact
-
-- 📧 jonatas.manzolli@mcgill.ca  
-- 🌐 https://www.natomanzolli.com/  
+👉 https://scholar.google.com/citations?user=IJKz2_gAAAAJ&hl=pt-PT  
 
 ---
 
-## 🧑🏻‍💻 Background
+## 🧩 Selected Work
 
 <details>
-<summary>Expand</summary>
+<summary><b>⚡ Electric Bus Smart Charging Platform</b></summary>
 
-- PhD in Sustainable Energy Systems  
-- MSc in Energy for Sustainability  
-- BSc in Electrical Engineering  
+👉 https://github.com/jmanzolli/SMaRTE-electric-bus-smart-charging-platform  
 
-Experience:
-- McGill University (Postdoc)  
-- INESC Coimbra  
-- IAV Automotive Engineering  
+End-to-end platform for **planning and operating electric bus fleets**.
+
+**Core components:**
+- smart charging and load management  
+- peak shaving and cost optimization  
+- grid-aware fleet coordination  
+
+**Focus:** operational deployment of optimization-driven energy management.
+
+</details>
+
+---
+
+<details>
+<summary><b>🔋 Battery Degradation & Optimization</b></summary>
+
+👉 https://github.com/jmanzolli/Electric-Bus-Battery-Degradation-and-Optimization  
+
+Modeling battery behavior for **lifecycle-aware decision-making**.
+
+**Core components:**
+- degradation-aware optimization  
+- hybrid physics + machine learning models  
+- cost and lifetime trade-off analysis  
+
+**Focus:** integrating battery health into operational optimization.
+
+</details>
+
+---
+
+<details>
+<summary><b>🌐 EV Charging Grid Simulator</b></summary>
+
+👉 https://github.com/jmanzolli/EV-Charging-Grid-Simulator  
+
+Simulation framework for **EV-grid interaction at system scale**.
+
+**Core components:**
+- charging demand modeling  
+- infrastructure stress and load analysis  
+- coupling with optimization models  
+
+**Focus:** understanding system constraints under large-scale electrification.
+
+</details>
+
+---
+
+<details>
+<summary><b>⚡ Energy Surplus Retrieval</b></summary>
+
+👉 https://github.com/jmanzolli/energy-surplus-retrieval  
+
+Optimization of **distributed energy utilization and balancing**.
+
+**Core components:**
+- surplus detection and allocation  
+- energy balancing strategies  
+- efficiency improvement mechanisms  
+
+**Focus:** maximizing utilization of available energy resources.
+
+</details>
+
+---
+
+## 🧰 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,pytorch,matlab,linux" />
+</p>
+
+---
+
+## 🧑🏻‍💻 Journey
+
+<details>
+<summary><b>Background & Experience</b></summary>
+
+**Education**
+- PhD, Sustainable Energy Systems, University of Coimbra  
+- MSc, Energy for Sustainability  
+- BSc, Electrical Engineering, Unicamp  
+- Exchange, Technical University of Munich  
+
+**Experience**
+- Postdoc, McGill University (IMaTS)  
+- Researcher, INESC Coimbra  
+- Engineer, IAV (Germany)  
+
+**Highlights**
+- SYLFF Fellow  
+- MIT Innovation Workshop  
+- EDP Challenge Finalist  
 
 </details>
